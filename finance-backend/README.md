@@ -29,4 +29,10 @@ cd finance-backend
 npm install
 
 
+### 1. Start the Backend
+```bash
+# To run in development mode (recommended for testing)
+npm run dev
 
+# To run in production mode
+npm start
